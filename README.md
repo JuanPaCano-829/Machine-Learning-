@@ -1,7 +1,6 @@
 # Machine Learning
 - Introducción
 - Clasificación
-
 $\rightarrow$ Código: 
 - Regresión
 
