@@ -1,7 +1,5 @@
 # Machine Learning
 - Introducción
-
-$\rightarrow$ Código: 
 - Clasificación
 
 $\rightarrow$ Código: 
